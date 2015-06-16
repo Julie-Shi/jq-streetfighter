@@ -1,0 +1,49 @@
+* {
+	border: 1px solid red;
+}
+
+body {
+	background-color: black;
+}
+
+.container {
+	width: 100%;
+	min-width: 1200px;
+	height: 510px;
+	position: absolute;
+	background-color: white;
+	top: 7em;
+}
+
+.ryu {
+	width: 780px;
+	height: 500px;
+	float: left;
+	position: relative;
+	padding-left: 15px;
+	
+}
+
+.standing {
+	
+	float: right;	
+}
+
+.ready {
+	
+	float: right;
+}
+
+.throwing {
+	
+	float: right;
+}
+
+.cool {
+	
+	float: right;
+}
+
+.audio-intro {
+
+}
