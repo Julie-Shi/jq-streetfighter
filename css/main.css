@@ -1,5 +1,5 @@
-* {
-	border: 1px solid red;
+ {
+	
 }
 
 body {
@@ -21,7 +21,7 @@ body {
 	float: left;
 	position: relative;
 	padding-left: 15px;
-	
+	border: 1px solid red;
 }
 
 .standing {
@@ -42,6 +42,13 @@ body {
 .cool {
 	
 	float: right;
+}
+
+.hadouken {
+	z-index: 5;
+	position: relative;
+	top: -21em;
+	left: 35em;
 }
 
 .audio-intro {
